@@ -267,7 +267,7 @@ img{
 }
 
 .home{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url('img/trianglify-lowres.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url('trianglify-lowres.png');
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-size: cover;
