@@ -170,7 +170,6 @@ img{
     margin: 0 auto;
     text-align: center;
     background-color: var(--body-color);
-	  height: var(--header-height);
     padding: 2.5rem 0 0;
     transition: .4s;
     box-shadow: 0 0 4px rgba(0,0,0,0.1);
